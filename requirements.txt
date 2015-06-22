@@ -26,6 +26,6 @@ reportlab==3.1.44
 selenium==2.44.0
 six==1.9.0
 sqlparse==0.1.14
-swingtix-bookkeeper==0.0.1.1
+swingtix-bookkeeper==0.0.2
 wmctrl==0.1
 wsgiref==0.1.2
